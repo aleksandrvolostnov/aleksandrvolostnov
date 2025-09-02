@@ -23,57 +23,67 @@
 
 ## 📂 Основные проекты
 
-### 🔍 Scanner
-🛠 Репозиторий: [Scanner](https://github.com/aleksandrvolostnov/Scanner)  
-**Описание:** Система сканирования и анализа сети.  
-**Стек:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-
----
-
-### 🤖 Telegram Bot for Support
-🛠 Репозиторий: [Telegram-bot-for-support](https://github.com/aleksandrvolostnov/Telegram-bot-for-support)  
-**Описание:** Телеграм-бот для автоматизации поддержки пользователей.  
-**Стек:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
----
-
-### 📊 Information System for Analytics and Forecast
-🛠 Репозиторий: [Analytics and Forecast](https://github.com/aleksandrvolostnov/Information-system-for-analytics-and-forecast)  
-**Описание:** Информационная система для аналитики и прогнозирования.  
-**Стек:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
-
----
-
-### 📌 Information System for Managing Project Tasks
-🛠 Репозиторий: [Project Tasks System](https://github.com/aleksandrvolostnov/Information-system-for-managing-project-tasks-and-monitoring-efficiency)  
-**Описание:** Система для управления проектными задачами и мониторинга эффективности.  
-**Стек:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
----
-
-### 👥 Information System for Custom (CRM)
-🛠 Репозиторий: [CRM System](https://github.com/aleksandrvolostnov/Information-system-for-custom)  
-**Описание:** Система для взаимодействия таможенных органов.  
-**Стек:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<table>
+  <tr>
+    <td>
+      <h3>🔍 <a href="https://github.com/aleksandrvolostnov/Scanner">Scanner</a></h3>
+      <p>Система сканирования и анализа сети.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🤖 <a href="https://github.com/aleksandrvolostnov/Telegram-bot-for-support">Telegram Bot for Support</a></h3>
+      <p>Телеграм-бот для автоматизации поддержки пользователей.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white">
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📊 <a href="https://github.com/aleksandrvolostnov/Information-system-for-analytics-and-forecast">Analytics & Forecast</a></h3>
+      <p>Информационная система для аналитики и прогнозирования.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📌 <a href="https://github.com/aleksandrvolostnov/Information-system-for-managing-project-tasks-and-monitoring-efficiency">Project Tasks System</a></h3>
+      <p>Система для управления проектными задачами и мониторинга эффективности.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>👥 <a href="https://github.com/aleksandrvolostnov/Information-system-for-custom">CRM System</a></h3>
+      <p>Система для взаимодействия таможенных органов.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,4 +91,4 @@
 
 - ✉️ Email: **avolostnov.03@mail.ru**  
 - 💬 Telegram: [@AV718](https://t.me/AV718)  
-- 💻 GitHub: [aleksandrvolostnov](https://github.com/aleksandrvolostnov)
+- 💻 GitHub: [aleksandrvolostnov](https://github.com/aleksandrvolostnov)  
