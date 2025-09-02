@@ -1,3 +1,5 @@
+![Header](assets/banner.png)
+
 # Привет 👋 Я Волостнов Александр  
 
 🎓 Выпускник **РЭУ им. Плеханова (2025)**  
@@ -5,7 +7,7 @@
 
 💻 **Fullstack Python Developer**  
 🚀 Разрабатываю веб-приложения на **Flask** и **Django**, работаю с **PostgreSQL**.  
-🎨 Пишу как **backend**, так и **frontend** часть приложений.  
+🎨 Пишу как **backend**, так и **frontend** части приложений.  
 
 ---
 
@@ -21,11 +23,17 @@
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Статистика  
 
-![](https://github-readme-stats.vercel.app/api?username=aleksandrvolostnov&show_icons=true&theme=tokyonight&hide_border=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=aleksandrvolostnov&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrvolostnov&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=aleksandrvolostnov&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aleksandrvolostnov&theme=radical&hide_border=true)  
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=aleksandrvolostnov&theme=radical&hide_border=true&area=true)  
+
+</div>
 
 ---
 
