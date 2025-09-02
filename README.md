@@ -23,17 +23,51 @@
 
 ---
 
-## 📊 GitHub Статистика  
+## 📂 Основные проекты
 
-<div align="center">
+### 🔍 Scanner
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandrvolostnov&repo=Scanner&theme=radical)](https://github.com/aleksandrvolostnov/Scanner)  
+**Стек:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=aleksandrvolostnov&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aleksandrvolostnov&theme=radical&hide_border=true)  
+### 🤖 Telegram Bot for Support
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandrvolostnov&repo=Telegram-bot-for-support&theme=radical)](https://github.com/aleksandrvolostnov/Telegram-bot-for-support)  
+**Стек:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?logo=telegram&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=aleksandrvolostnov&theme=radical&hide_border=true&area=true)  
+---
 
-</div>
+### 📊 Information System for Analytics and Forecast
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandrvolostnov&repo=Information-system-for-analytics-and-forecast&theme=radical)](https://github.com/aleksandrvolostnov/Information-system-for-analytics-and-forecast)  
+**Стек:**  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+
+---
+
+### 📌 Information System for Managing Project Tasks and Monitoring Efficiency
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandrvolostnov&repo=Information-system-for-managing-project-tasks-and-monitoring-efficiency&theme=radical)](https://github.com/aleksandrvolostnov/Information-system-for-managing-project-tasks-and-monitoring-efficiency)  
+**Стек:**  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+---
+
+### 👥 Information System for Custom (CRM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandrvolostnov&repo=Information-system-for-custom&theme=radical)](https://github.com/aleksandrvolostnov/Information-system-for-custom)  
+**Стек:**  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
