@@ -9,6 +9,14 @@
 
 ---
 
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandrvolostnov&show_icons=true&hide_title=false&count_private=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrvolostnov&layout=compact&theme=radical)
+
+---
+
 ## 🚀 Технологический стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
