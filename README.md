@@ -11,7 +11,12 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandrvolostnov&show_icons=true&hide_title=false&count_private=true&theme=radical)
+![Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=aleksandrvolostnov&theme=react-dark)
+![GitHub Calendar](https://github.com/aleksandrvolostnov/github-readme-activity-calendar/blob/master/calendar.svg)
+[![Python](https://img.shields.io/badge/Python-50%25-blue)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)]()
+[![HTML](https://img.shields.io/badge/HTML-20%25-orange)]()
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aleksandrvolostnov&theme=react-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrvolostnov&layout=compact&theme=radical)
 
