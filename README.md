@@ -12,10 +12,10 @@
 ## 📊 Статистика GitHub
 
 
-[![Python](https://img.shields.io/badge/Python-24%25-#3776AB)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-2,5%25-#5382A1)]()
-[![HTML](https://img.shields.io/badge/HTML-72%25-#E34F26)]()
-[![CSS](https://img.shields.io/badge/CSS-1,5%25-#1572B6)]()
+[![Python](https://img.shields.io/badge/Python-24%25-darkblue)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-2,5%25-green)]()
+[![HTML](https://img.shields.io/badge/HTML-72%25-darkred)]()
+[![CSS](https://img.shields.io/badge/CSS-1,5%25-purple)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrvolostnov&layout=compact&theme=radical)
 
